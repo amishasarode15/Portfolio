@@ -1,0 +1,170 @@
+
+.navbar::before{
+    width: 100vw;
+}
+
+.navbar{
+    flex-direction: column;
+    width: 120vh;
+}
+
+.navbar ul{
+    display: flex;
+    flex-direction: column;
+}
+
+.logo{
+    margin: 30px 100px;
+}
+
+.logo img{
+    width: 40vw;
+}
+
+.navbar ul li a{
+    font-size: 2rem;
+}
+
+
+.mid{
+    flex-direction: column;
+}
+
+.mid .icons{
+    flex-direction: row;
+}
+
+.mid .info-img{
+    width: 110vw;
+}
+
+.mid .info-img img{
+    margin-top: 150px;
+    width: 70vw;
+}
+
+.icons img{
+    margin: 10px 3px;
+}
+
+.middle{
+    flex-direction: column;
+}
+
+.mid .info{
+    margin-bottom: 240px;
+    width: 80vw;
+}
+
+#about-me{
+    margin-top: 800px;
+    width: 100vh;
+}
+
+.middle .end{
+    flex-direction: column;
+}
+
+#skills{
+    margin-top: 1097px;
+}
+
+.main{
+    /* margin: 0 auto; */
+    width:80vh;
+}
+
+#h-prim{
+    font-size: 4.5rem;
+}
+
+.start p{
+    font-size: 2rem;
+}
+
+.h-primary{
+    font-size: 3.5rem;
+}
+
+#h-pri{
+    font-size: 5rem;
+}
+
+.h-ternary{
+    font-size: 2rem;
+}
+
+#home-p{
+    font-size: 1.8rem;
+}
+
+.btn{
+    font-size: 1.8rem;
+}
+
+.about-img{
+    width: 110vw;
+}
+
+.about-img img{
+    width: 86vw;
+    margin: 80px;
+    height: 479px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.about-info{
+    width: 70vw;
+}
+
+#about-p{
+    font-size: 2rem;
+}
+
+.about-item img{
+    width: 40px;
+}
+
+#h-ter{
+    font-size: 2rem;
+}
+
+
+.about-info .btn {
+    width: 60vw;
+}
+
+#skills-main{
+    flex-direction: column;
+    width: 150vw;
+    height: 215vh;
+}
+
+#contact-me{
+    margin-top: 1050px;
+}
+
+.contact-end{
+    flex-direction: column;
+    margin-top: 192px;
+}
+
+.contact-img{
+    width: 60vw;
+}
+.contact-img img{
+    width: 400px;
+}
+
+.form{
+    margin-top: 0;
+}
+
+#footer{
+    margin-top: 615px;
+    text-align: center;
+    display: block;
+    margin: 615px auto 0;
+}
+
